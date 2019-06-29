@@ -1,0 +1,24 @@
+{
+  "name": "nodejs.jenkins",
+  "version": "1.0.0",
+  "description": "jenkins test deployment ",
+  "main": "index.js",
+  "scripts": {
+    "test12": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgekuttygeorge/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgekuttygeorge/nodejs/issues"
+  },
+  "homepage": "https://github.com/georgekuttygeorge/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
